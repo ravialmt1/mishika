@@ -1,0 +1,2 @@
+# mishika
+Student mgmt system
